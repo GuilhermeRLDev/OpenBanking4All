@@ -1,0 +1,8 @@
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationDomain\bin\Debug\netcoreapp3.1\PSD2AuthenticationDomain.deps.json
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationDomain\bin\Debug\netcoreapp3.1\PSD2AuthenticationDomain.dll
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationDomain\obj\Debug\netcoreapp3.1\PSD2AuthenticationDomain.AssemblyInfoInputs.cache
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationDomain\obj\Debug\netcoreapp3.1\PSD2AuthenticationDomain.AssemblyInfo.cs
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationDomain\bin\Debug\netcoreapp3.1\PSD2AuthenticationDomain.pdb
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationDomain\obj\Debug\netcoreapp3.1\PSD2AuthenticationDomain.dll
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationDomain\obj\Debug\netcoreapp3.1\PSD2AuthenticationDomain.pdb
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationDomain\obj\Debug\netcoreapp3.1\PSD2AuthenticationDomain.csprojAssemblyReference.cache

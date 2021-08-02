@@ -1,0 +1,11 @@
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\bin\Debug\netcoreapp3.1\PSD2AuthenticationRepository.deps.json
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\bin\Debug\netcoreapp3.1\PSD2AuthenticationRepository.dll
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\bin\Debug\netcoreapp3.1\PSD2AuthenticationDomain.dll
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\bin\Debug\netcoreapp3.1\PSD2AuthenticationDomain.pdb
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\obj\Debug\netcoreapp3.1\PSD2AuthenticationRepository.csprojAssemblyReference.cache
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\obj\Debug\netcoreapp3.1\PSD2AuthenticationRepository.AssemblyInfoInputs.cache
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\obj\Debug\netcoreapp3.1\PSD2AuthenticationRepository.AssemblyInfo.cs
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\obj\Debug\netcoreapp3.1\PSD2AuthenticationRepository.csproj.CopyComplete
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\bin\Debug\netcoreapp3.1\PSD2AuthenticationRepository.pdb
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\obj\Debug\netcoreapp3.1\PSD2AuthenticationRepository.dll
+D:\.NETProjects\Microservices\PSD2Authentication\PSD2AuthenticationRepository\obj\Debug\netcoreapp3.1\PSD2AuthenticationRepository.pdb

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentation", "1-Presentation", "{7341A625-341C-4B67-9B83-EA33EDF0280B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{7F1934AD-F994-43AC-BBB7-A876A3E94C5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSD2AuthenticationDomain", "..\PSD2AuthenticationDomain\PSD2AuthenticationDomain.csproj", "{96044B63-DCC4-461C-87C3-1C8E3E4F503C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Infrastructure", "3-Infrastructure", "{1B46C074-F68D-42DD-9876-91BCB6FD3F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSD2AuthenticationRepository", "..\PSD2AuthenticationRepository\PSD2AuthenticationRepository.csproj", "{976749BC-609B-4958-A4BF-E16838FE7A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSD2Authentication", "PSD2Authentication\PSD2Authentication.csproj", "{A2850352-C8F0-44BE-81C7-90591861FDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96044B63-DCC4-461C-87C3-1C8E3E4F503C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96044B63-DCC4-461C-87C3-1C8E3E4F503C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96044B63-DCC4-461C-87C3-1C8E3E4F503C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96044B63-DCC4-461C-87C3-1C8E3E4F503C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976749BC-609B-4958-A4BF-E16838FE7A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976749BC-609B-4958-A4BF-E16838FE7A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976749BC-609B-4958-A4BF-E16838FE7A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976749BC-609B-4958-A4BF-E16838FE7A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2850352-C8F0-44BE-81C7-90591861FDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2850352-C8F0-44BE-81C7-90591861FDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2850352-C8F0-44BE-81C7-90591861FDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2850352-C8F0-44BE-81C7-90591861FDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{96044B63-DCC4-461C-87C3-1C8E3E4F503C} = {7F1934AD-F994-43AC-BBB7-A876A3E94C5E}
+		{976749BC-609B-4958-A4BF-E16838FE7A19} = {1B46C074-F68D-42DD-9876-91BCB6FD3F07}
+		{A2850352-C8F0-44BE-81C7-90591861FDFC} = {7341A625-341C-4B67-9B83-EA33EDF0280B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF586CFF-CF46-448C-A37E-A941084DA193}
+	EndGlobalSection
+EndGlobal
